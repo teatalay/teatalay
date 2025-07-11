@@ -40,8 +40,9 @@
     ]}
     coursesTaught={["JS", "ReactJS"]}
     deprecatedStack={[
-        ".NET & C#", "Azure (PaaS: CDN, App Services, Schedulers)", "Entity Framework", "Web API", "SignalR",
-        "WCF", "ADO.NET", "Windows Phone & 8 Dev", "Hybrid Mobile (VanillaJS Injection)", "XAML",
+        ".NET & C#", "Azure (PaaS: CDN, App Services, Schedulers)", "Entity Framework",
+        "Web API", "SignalR", "WCF", "ADO.NET", "Windows Phone & 8 Dev", 
+        "Hybrid Mobile (VanillaJS Injection)", "XAML",
         "KnockoutJS", "DurandalJS", "JasmineJS", "JointJS", "RappidJS", "Mapbox", "LeafletJS", "Redux-Thunk",
         "React Hydration",
     ]}
