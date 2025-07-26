@@ -36,8 +36,9 @@
         additionalLanguages: ["MJML"]
     }}
     currentlyLearning={[
-        "NextJS", "tRPC", "Inngest", "Prisma", "OpenAI API", "Shadcn/ui"
+        "tRPC", "Inngest", "Prisma", "OpenAI API", "Shadcn/ui"
     ]}
+    newlyAcquiredSkills={["NextJS"]}
     coursesTaught={["JS", "ReactJS"]}
     deprecatedStack={[
         ".NET & C#", "Azure (PaaS: CDN, App Services, Schedulers)", "Entity Framework",
