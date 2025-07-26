@@ -33,7 +33,8 @@
         network: ["GQL With Apollo Client"],
         protocols: ["WebSocket"],
         versionControl: ["Git", "npm"],
-        additionalLanguages: ["MJML"]
+        additionalLanguages: ["MJML"],
+        mapLibs: ["mapbox","LeafletJS"]
     }}
     currentlyLearning={[
         "tRPC", "Inngest", "Prisma", "OpenAI API", "Shadcn/ui"
@@ -45,8 +46,7 @@
         "Web API", "SignalR", "WCF", "ADO.NET", "Windows Phone & 8 Dev", 
         "Hybrid Mobile (VanillaJS Injection)", "XAML",
         "KnockoutJS", "DurandalJS", "JasmineJS", "JointJS", "RappidJS",
-        "Mapbox", "LeafletJS", "Redux-Thunk",
-        "React Hydration",
+        "Redux-Thunk", "React Hydration",
     ]}
 />
 ```
