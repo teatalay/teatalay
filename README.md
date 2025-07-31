@@ -85,7 +85,7 @@ I'm a Senior Software Engineer with over 12 years of experience in JavaScript an
 <br>
 *<small>Sep 2022 - July 2025</small>*
 <br>
-- Led the development of an advanced Email Builder and a Business Request Creation App using React, GrapesJS, and MJML.
+- Led development of Email Builder and Business Request Creation App using ReactJS, GrapesJS, MJML. Developed a no-code platform based on a Component-Master-Template-Email structure. Implemented a screenshot service for the platform's output. Resolved numerous bugs in the GrapesJS and MJML libraries.
 
 ---
 
@@ -93,7 +93,7 @@ I'm a Senior Software Engineer with over 12 years of experience in JavaScript an
 <br>
 *<small>Aug 2021 - May 2022</small>*
 <br>
-- Managed the admin panel project utilizing React 18, Mapbox, and real-time communication tools.
+- Managed a 15-member backoffice team. Additionally, developed the backoffice's frontend using ReactJS, Mapbox, and real-time communication tools. Developed a real-time vehicle tracker, a polygon creator for drawing areas, and order and stock management systems using WebSocket.
 
 ---
 
@@ -101,7 +101,7 @@ I'm a Senior Software Engineer with over 12 years of experience in JavaScript an
 <br>
 *<small>Jul 2019 - Aug 2021</small>*
 <br>
-- Led frontend development for Realwear-integrated industrial applications, including Taskimo and Tips.
+- Led frontend development for Realwear-integrated industrial applications including Taskimo and Tips. Managed a 3-member frontend team. Developed multi-tenant flow management panels for major clients including Ford, Tüpraş, and Socar. Also developed numerous complex components, such as a tree-structured datatable with JSON-based backend integration. Developed a hybrid application for mobile devices, using JavaScript injection to enable native features such as the camera, gyroscope, and local storage.
 
 ---
 
@@ -109,7 +109,7 @@ I'm a Senior Software Engineer with over 12 years of experience in JavaScript an
 <br>
 *<small>Jan 2019 - May 2019</small>*
 <br>
-- Led a frontend team in the e-commerce sector, developing scalable and high-performance projects using React and Redux.
+- Led a frontend team in the e-commerce sector, developing scalable and high-performance projects using React and Redux. Developed Redux middleware for handling every state of requests and syncing them with custom states. Developed JSON-based dynamic form, datatable with auto-filtering, and remote select components.
 
 ---
 
@@ -117,10 +117,48 @@ I'm a Senior Software Engineer with over 12 years of experience in JavaScript an
 <br>
 *<small>Jun 2013 - Dec 2018</small>*
 <br>
-- Developed award-winning Windows Phone & Tablet applications, securing a Gold Stevie Award in 2014.
-- Pioneered hybrid mobile development using advanced Vanilla JS injection techniques.
-- Led the migration of the entire ATM system from legacy VBScript to a modern, modular React/Redux architecture.
-- Developed a complex, reusable React framework and libraries that are now used by multiple banking teams.
+- Developed award-winning native and hybrid banking applications (Windows 8/Phone). 
+- Developed a mobile-web project with KnockoutJS, DurandalJS, and TypeScript 0.x. 
+- Developed a hybrid application to replace legacy Windows apps, enabling the mobile-web project to run with native behaviors via Javascript injection.
+- Developed a complex React Framework and libraries used by all banking teams.
+- Developed a State Machine manager using RappidJS to create UML-structured state flows.
+- Led the migration of ATM systems from VBScript to modern React/Redux-based architecture. Used NodeJS for middleware. Managed a team of 10 members. 
+
+<hr>
+
+<h3 align="left">Side Projects</h3>
+
+**Dynamic Marketplace Creator**
+<br>
+*<small>2019</small>*
+<br>
+- Developed a database-first dynamic marketplace creator platform. Category-sub category-prop based fields and their creation and filtering flow managed in the database and used in both backend and frontend while creating or filtering marketplace items. Used AzureSQL, WebApi 2.2, ADO.NET, ReactJS, Redux
+
+---
+
+**Gamifie**
+<br>
+*<small>2017</small>*
+<br>
+- Developed a gamified interactive streaming platform that works with Twitch integration. That project included gamification with top lists-leveled profiles with experience points, betting with experience points, prize case openings, donating to streamers, marketplace, payment api integration, admin panel for streamer to create and manage bets, surveys, remote streamer’s screen manager, stream scheduler. Used Azure CDN, Azure Blobstorage, Azure SQL, Web Api 2.2, Entity Framework, Autofac, SignalR, ReactJS.
+
+---
+
+**Online Event**
+<br>
+*<small>2014</small>*
+<br>
+- Developed an online event platform that allows users to create their activity with activity invitation pages and get donations for them. Used MsSQL, WCF, KnockoutJS, DurandalJS.
+
+---
+
+**Windows Phone Applications**
+<br>
+*<small>2013</small>*
+<br>
+- eveloped games and applications that were promoted as best applications and games in Microsoft Windows App Store. Used C# and Windows Tablet/Windows Phone SDK.
+
+---
 
 <hr>
 
