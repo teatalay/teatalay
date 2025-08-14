@@ -36,11 +36,11 @@
         additionalLanguages: ["MJML"],
         mapLibs: ["mapbox","LeafletJS"]
     }}
-    currentlyLearning={[
-        "tRPC", "Inngest", "Prisma", "OpenAI API", "Shadcn/ui"
-    ]}
     newlyAcquiredSkills={["NextJS"]}
     coursesTaught={["JS", "ReactJS"]}
+    currentlyLearning={[
+        "NestJS", "tRPC", "Inngest", "Prisma", "OpenAI API", "Shadcn/ui"
+    ]}
     deprecatedStack={[
         ".NET & C#", "Azure (PaaS: CDN, App Services, Schedulers)", "Entity Framework",
         "Web API", "SignalR", "WCF", "ADO.NET", "Windows Phone & 8 Dev", 
